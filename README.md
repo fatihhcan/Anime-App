@@ -4,10 +4,7 @@
 
 ## Video
 
-
-
 https://github.com/fatihhcan/Anime-App/assets/45641833/f489180f-c838-48f1-ba4b-146fe43f87d0
-
 
 
 ## Subject:
@@ -513,7 +510,6 @@ anime_app
     │    │    
     │    └───base
     │    │
-    │    └───cache
     │    │ 
     │    └───components
     │    │    
