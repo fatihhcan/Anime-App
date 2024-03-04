@@ -27,6 +27,8 @@ https://github.com/fatihhcan/Anime-App/assets/45641833/f489180f-c838-48f1-ba4b-1
 - Local **method channels** were used to call service requests. (fetchAnimeList).
   
 - Pagination has been performed.
+  
+- Flutter version **3.7.12** was used.(FVM-Flutter Version Management).
 
 
 
