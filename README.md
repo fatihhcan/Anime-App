@@ -2,6 +2,14 @@
 
 **Project Summary:** It is a mobile application that contains details of animes.
 
+## Video
+
+
+
+https://github.com/fatihhcan/Anime-App/assets/45641833/f489180f-c838-48f1-ba4b-146fe43f87d0
+
+
+
 ## Subject:
 
 - **BLoC/Cubit** was used for State Management.
@@ -17,7 +25,8 @@
 - **Widget Test** and **Unit Test**  a widget test and a unit test example were created.
 
 - Local **method channels** were used to call service requests. (fetchAnimeList).
-
+  
+- Pagination has been performed.
 
 
 
