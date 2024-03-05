@@ -19,7 +19,7 @@ https://github.com/fatihhcan/Anime-App/assets/45641833/f489180f-c838-48f1-ba4b-1
 
 - **Firebase Crashlytics** package was used for the crash test.
 
-- **Widget Test** and **Unit Test**  a widget test and a unit test example were created.
+- **Widget Test** and **Unit Test** example were created.
 
 - Local **method channels** were used to call service requests. (fetchAnimeList).
   
@@ -68,7 +68,6 @@ https://github.com/fatihhcan/Anime-App/assets/45641833/f489180f-c838-48f1-ba4b-1
   DioManager dioManager = DioManager.instance;
   NavigationService navigation = NavigationService.instance;
   AppStateManager appStateManager = AppStateManager.instance;
-  LocalDatabaseManager localDatabaseManager = LocalDatabaseManager.instance;
   void setContext(BuildContext context);
   void init();
 }
@@ -509,7 +508,6 @@ anime_app
     └───core
     │    │    
     │    └───base
-    │    │
     │    │ 
     │    └───components
     │    │    
